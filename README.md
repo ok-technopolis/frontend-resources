@@ -2,7 +2,7 @@
 
 ## Доклады 
 
-###HTML 
+### HTML 
  
 [Вадим Макеев — Вёрстка со смыслом. Новая семантика HTML5](https://vimeo.com/25823931)
 
@@ -10,7 +10,7 @@
 
 [Leonie Watson — Introduction to accessibility mechanics](https://vimeo.com/141249792) (Доступность)
 
-###Css
+### Css
 [Вадим Пацев — CSS: Селекторы, псевдоклассы. Специфичность и наследование](https://events.yandex.ru/lib/talks/560)
 
 ### Поток
@@ -43,14 +43,14 @@ http://evolutionofweb.appspot.com
 
 ## Книги
 
-###Типографика
+### Типографика
 [Краткие сведения по типографскому делу](https://www.artlebedev.ru/izdal/kratkie-svedenia-po-tipografskomu-delu/) (полистать)
 
 [Книги про буквы от Аа до Яя](https://www.artlebedev.ru/izdal/kniga-pro-bukvy2) (рекомендуется прочитать вступление)
 
 [Облик книги](https://www.artlebedev.ru/izdal/oblik-knigi) (рекомендовано к прочтению на поздних этапах)
 
-###CSS
+### CSS
 [Инлайновый контекст форматирования](css-live.ru/articles/obzor-inlajnovyj-kontekst-formatirovaniya.html) (обязательна к прочтению)
 
 
