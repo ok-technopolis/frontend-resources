@@ -51,7 +51,7 @@ http://evolutionofweb.appspot.com
 [Облик книги](https://www.artlebedev.ru/izdal/oblik-knigi) (рекомендовано к прочтению на поздних этапах)
 
 ### CSS
-[Инлайновый контекст форматирования](css-live.ru/articles/obzor-inlajnovyj-kontekst-formatirovaniya.html) (обязательна к прочтению)
+[Инлайновый контекст форматирования](http://css-live.ru/articles/obzor-inlajnovyj-kontekst-formatirovaniya.html) (обязательна к прочтению)
 
 
 
