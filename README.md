@@ -24,9 +24,27 @@
 [Вадим Макеев — Можно вообще всё. Раскладка по гриду](https://www.youtube.com/watch?v=5yCuzHklYZ4)
 
 
+### CSS Визуальные эффекты
+
+[Владимир Агафонкин — Современные интерактивные карты на WebGL](https://www.youtube.com/watch?v=yMmyzzApGy4)
+
+[Anna Selezniova — Front-end As I See It](https://www.youtube.com/watch?v=B9SXHMei58c)
+
+[Дмитрий Дудин — Как сделать Инстаграм в браузере](https://www.youtube.com/watch?v=RJnYkbm66ZI)
+
+[Анна Селезнёва — Вызов принят](https://www.youtube.com/watch?v=cXlOBOp15tY)
+
+[Юлия Бухвалова — Оживляем текст](https://www.youtube.com/watch?v=XB7MdbFxPzc)
+[Юлия Бухвалова — Оживляем текст (презентация)](https://wsd.events/2015/06/20/pres/text-alive)
+
+
+### Препроцессоры
+[Андрей Сумин — Как мы делали темы на проекте Почта@Mail.ru](https://www.youtube.com/watch?v=gBuIT9nMFIM&t=5s&index=1&list=PLq0VPil64bGya8RjFuuUZlSgPrwlE4Nsr)
+
+
 ## Сылки
 
-http://evolutionofweb.appspot.com
+[Браузеров](http://evolutionofweb.appspot.com)
 
 [Микроразметка](https://yandex.ru/support/webmaster/schema-org/what-is-schema-org.xml?lang=ru)
 
@@ -40,6 +58,11 @@ http://evolutionofweb.appspot.com
 [Специфичность селекторов (yoksel)](css.yoksel.ru/specifity)
 
 [caniuse.com](http://caniuse.com) (смотрим что можно и нельзя использовать)
+
+[Сергей Чикуёнок — Анимации на GPU: делаем это правильно](https://habrahabr.ru/company/odnoklassniki/blog/313978/)
+
+[preprocessor stub repo](https://github.com/ok-technopolis/preprocessor-stub)
+
 
 ## Книги
 
