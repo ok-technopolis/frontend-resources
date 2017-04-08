@@ -42,7 +42,7 @@
 [Андрей Сумин — Как мы делали темы на проекте Почта@Mail.ru](https://www.youtube.com/watch?v=gBuIT9nMFIM&t=5s&index=1&list=PLq0VPil64bGya8RjFuuUZlSgPrwlE4Nsr)
 
 
-## Сылки
+## Ссылки
 
 [Браузеров](http://evolutionofweb.appspot.com)
 
@@ -61,7 +61,10 @@
 
 [Сергей Чикуёнок — Анимации на GPU: делаем это правильно](https://habrahabr.ru/company/odnoklassniki/blog/313978/)
 
+### Ссылки
+
 [preprocessor stub repo](https://github.com/ok-technopolis/preprocessor-stub)
+[Описание вёрстки для айтемов](https://cloud.mail.ru/public/JdWC/71ADpXe2W)
 
 
 ## Книги
